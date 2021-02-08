@@ -1,0 +1,94 @@
+.navBrand {
+    font-size: 25px;
+    margin: 25px;
+}
+
+div.jumbotron {
+    background-image: url(../images/bianca-ackermann-9CuGKLZQ0AU-unsplash.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    height: 500px;
+    text-align: center;
+    margin: 0, auto;
+}
+
+.textShadow {
+    text-shadow: black 0.1em 0.1em 0.3em;
+}
+
+.headerPadding {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+p {
+    text-align: left;
+}
+
+.text-uppercase {
+    text-align: left;
+}
+
+.textAlignLeft {
+    text-align: left;
+}
+footer img {
+    max-width: 400px;
+    width: 100%;
+}
+
+footer li {
+    text-align: left;
+}
+
+/* info */
+
+div.jumbotronB {
+    background-image: url(../images/bianca-ackermann-9CuGKLZQ0AU-unsplash.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    height: 300px;
+    text-align: center;
+    margin: 0, auto;
+}
+
+/* .card {
+    border: white !important;
+    margin: 0 auto;
+} */
+
+.noBorder {
+    border: white !important;
+    margin: 0 auto;
+}
+
+.btnInfo {
+    margin: 20px 20px 20px 0px !important;
+}
+
+.footmargin {
+    margin-top: 100px;
+}
+
+.widthImg {
+    max-width: 300px;
+}
+
+.jumbotronEdu {
+    background-image: url(../images/erik-karits-a9MygbmfPSU-unsplash.jpg);
+    background-position: 60% 60%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    height: 300px;
+    text-align: center;
+    margin: 0, auto;
+}
+
+.row {
+    margin-top: 20px !important;
+}
