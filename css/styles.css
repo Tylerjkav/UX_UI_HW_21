@@ -4,8 +4,8 @@
 }
 
 div.jumbotron {
-    background-image: url(../images/bianca-ackermann-9CuGKLZQ0AU-unsplash.jpg);
-    background-position: 50% 50%;
+    background-image: url(../images/tania-miron-CdNvYPwupas-unsplash.png);
+    background-position: 25% 25%;
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
@@ -91,4 +91,14 @@ div.jumbotronB {
 
 .row {
     margin-top: 20px !important;
+}
+
+.socialLg {
+    font-size: 50px;
+}
+
+.jumbotron3 {
+    height: 100%;
+    width: 100%;
+
 }
